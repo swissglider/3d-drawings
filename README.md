@@ -1,5 +1,13 @@
+# 3D Drawings
+This repository hosts all my 3D Drawings as:
+- STL
+- FreeCad Project File
 
-   <script src="https://embed.github.com/view/3d/swissglider/3d-drawings/master/Projects/Regensensor-MH-RD/STL/Deckel.stl"></script>
+--- 
 
---- sfsd
-    ![..](https://raw.githubusercontent.com/swissglider/3d-drawings/master/Projects/Regensensor-MH-RD/STL/Deckel.stl)
+## Regensensor / Rainsensor
+This are the case for the Rainsensor.
+The Rainsensor is done with:
+- MH-RD
+- Aqara Tür/Fenster Sensor
+
